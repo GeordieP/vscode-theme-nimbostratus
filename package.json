@@ -1,0 +1,15 @@
+{
+	"name": "nimbostratus",
+	"version": "1.0.0",
+	"publisher": "Geordie Powers",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "nimbostratus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nimbostratus.json"
+			}
+		]
+	}
+}
